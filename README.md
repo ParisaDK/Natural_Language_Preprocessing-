@@ -8,3 +8,5 @@ Will comptete later
 ### Course 3
 #### Week 1
 - [Sentiment with Deep Neural Networks](Course3/Week1/C3W1_Practice_Assignment.ipynb)
+- [Programming Assignment:  Deep N-grams]()
+#### Week 2
