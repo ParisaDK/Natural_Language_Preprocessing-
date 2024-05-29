@@ -10,4 +10,4 @@ Will comptete later
 - [Sentiment with Deep Neural Networks](Course3/Week1/C3W1_Practice_Assignment.ipynb)
 - [Programming Assignment:  Deep N-grams](Course3/Week1/C3W1_Assignment.ipynb)
 #### Week 2
-- [Programming Assignment: Named Entity Recognition (NER)]()
+- [Programming Assignment: Named Entity Recognition (NER)](Course3/Week2/C3W2_Assignment.ipynb)
