@@ -11,5 +11,5 @@ Will comptete later
 - [Programming Assignment:  Deep N-grams](Course3/Week1/C3W1_Assignment.ipynb)
 #### Week 2
 - [Programming Assignment: Named Entity Recognition (NER)](Course3/Week2/C3W2_Assignment.ipynb)
-#### Week 3:
+#### Week 3
 - [Programming Assignment: Question duplicates](Course3/Week 3/C3W3_Assignment.ipynb)
