@@ -12,5 +12,4 @@ Will comptete later
 #### Week 2
 - [Programming Assignment: Named Entity Recognition (NER)](Course3/Week2/C3W2_Assignment.ipynb)
 #### Week 3:
-- 
 - [Programming Assignment: Question duplicates](Course3/Week 3/C3W3_Assignment.ipynb)
